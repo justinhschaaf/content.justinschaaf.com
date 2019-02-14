@@ -1,1 +1,22 @@
-<svg id="fb9f9afe-e36f-48c4-9095-126671f27191" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 512"><defs><style>.b3e12c1c-4bce-45e1-8ab6-682619eeb298,.bade5792-30bf-4d36-93fe-f81e56f1a928{fill:#111;}.aa4380df-6a91-444b-9ec2-ab05ff0f3a51,.ea4794ec-aebe-4bf1-98f7-10cd916a0120{fill:#fff;}.b3e12c1c-4bce-45e1-8ab6-682619eeb298,.ea4794ec-aebe-4bf1-98f7-10cd916a0120{font-size:256px;font-family:MajorMonoDisplay-Regular, Major Mono Display;}</style></defs><title>js-fullname</title><rect class="bade5792-30bf-4d36-93fe-f81e56f1a928" width="1280" height="256"/><rect class="aa4380df-6a91-444b-9ec2-ab05ff0f3a51" y="256" width="1280" height="256"/><text class="ea4794ec-aebe-4bf1-98f7-10cd916a0120" transform="translate(71.69 216)">Justin</text><text class="b3e12c1c-4bce-45e1-8ab6-682619eeb298" transform="translate(71.69 472)">Schaaf</text></svg>
+<svg id="fb9f9afe-e36f-48c4-9095-126671f27191" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 512">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+            .b3e12c1c-4bce-45e1-8ab6-682619eeb298,.bade5792-30bf-4d36-93fe-f81e56f1a928 {
+                fill:#111;
+            }
+            .aa4380df-6a91-444b-9ec2-ab05ff0f3a51,.ea4794ec-aebe-4bf1-98f7-10cd916a0120 {
+                fill:#fff;
+            }
+            .b3e12c1c-4bce-45e1-8ab6-682619eeb298,.ea4794ec-aebe-4bf1-98f7-10cd916a0120 {
+                font-size:256px;
+                font-family:MajorMonoDisplay-Regular, Major Mono Display;
+            }
+        </style>
+    </defs>
+    <title>js-fullname</title>
+    <rect class="bade5792-30bf-4d36-93fe-f81e56f1a928" width="1280" height="256"/>
+    <rect class="aa4380df-6a91-444b-9ec2-ab05ff0f3a51" y="256" width="1280" height="256"/>
+    <text class="ea4794ec-aebe-4bf1-98f7-10cd916a0120" transform="translate(71.69 216)">Justin</text>
+    <text class="b3e12c1c-4bce-45e1-8ab6-682619eeb298" transform="translate(71.69 472)">Schaaf</text>
+</svg>

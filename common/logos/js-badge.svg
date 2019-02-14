@@ -1,1 +1,21 @@
-<svg id="a8fd87fe-3454-4906-a86f-12a9970afe75" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 256"><defs><style>.a4526da2-7bb3-4591-8676-acb24648281c{fill:#111;}.b4425061-0419-4c7c-8699-0736fbdaf3f6,.f62d0d40-5ab3-4e4e-8b21-a087eadf2976{fill:#fff;}.f62d0d40-5ab3-4e4e-8b21-a087eadf2976{font-size:256px;font-family:MajorMonoDisplay-Regular, Major Mono Display;}</style></defs><title>js-badge</title><rect class="a4526da2-7bb3-4591-8676-acb24648281c" width="192" height="256"/><rect class="b4425061-0419-4c7c-8699-0736fbdaf3f6" x="192" width="192" height="256"/><text class="f62d0d40-5ab3-4e4e-8b21-a087eadf2976" transform="translate(2.56 217)">J<tspan class="a4526da2-7bb3-4591-8676-acb24648281c" x="189.44" y="0">s</tspan></text></svg>
+<svg id="a8fd87fe-3454-4906-a86f-12a9970afe75" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 256">
+    <defs>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+            .a4526da2-7bb3-4591-8676-acb24648281c {
+                fill:#111;
+            }
+            .b4425061-0419-4c7c-8699-0736fbdaf3f6,.f62d0d40-5ab3-4e4e-8b21-a087eadf2976 {
+                fill:#fff;
+            }
+            .f62d0d40-5ab3-4e4e-8b21-a087eadf2976 {
+                font-size:256px;
+                font-family:MajorMonoDisplay-Regular, Major Mono Display;
+            }
+        </style>
+    </defs>
+    <title>js-badge</title>
+    <rect class="a4526da2-7bb3-4591-8676-acb24648281c" width="192" height="256"/>
+    <rect class="b4425061-0419-4c7c-8699-0736fbdaf3f6" x="192" width="192" height="256"/>
+    <text class="f62d0d40-5ab3-4e4e-8b21-a087eadf2976" transform="translate(2.56 217)">J<tspan class="a4526da2-7bb3-4591-8676-acb24648281c" x="189.44" y="0">s</tspan></text>
+</svg>
