@@ -1,0 +1,109 @@
+{
+    "js": {
+        "name": "JS Collection",
+        "namespace": "JS",
+        "featured_color": "dark",
+        "colors": {
+            "dark": "#111111",
+            "light": "#ffffff",
+            "lucky_grey": "#777777"
+        }
+    },
+    "pinetree": {
+        "name": "Pinetree Collection",
+        "namespace": "PT",
+        "featured_color": "evergreen",
+        "colors": {
+            "evergreen": "#009245",
+            "fjord": "#80aabd",
+            "rose": "#d00000",
+            "mesa": "#f69920",
+            "irridium": "#e6e6e6",
+            "titanium": "#222222"
+        }
+    },
+    "retired_projects": {
+        "name": "Retired Collection",
+        "namespace": "RP",
+        "featured_color": "moonlight",
+        "colors": {
+            "moonlight": "#283f50",
+            "tv_grass_green": {
+                "name": "TV Grass Green",
+                "base": "#52cc55"
+            },
+            "tv_high_blue": {
+                "name": "TV High Blue",
+                "base": "#09aac1"
+            },
+            "tv_s2": {
+                "name": "TV S2",
+                "base": "#437aa1"
+            },
+            "tv_s3": {
+                "name": "TV S3",
+                "base": "#ffd800"
+            },
+            "tv_s6": {
+                "name": "TV S6",
+                "base": "#ff666f"
+            },
+            "tv_s8": {
+                "name": "TV S8",
+                "base": "#dc913d"
+            },
+            "tv_sx": {
+                "name": "TV SX",
+                "base": "#aa0000"
+            },
+            "tv_gold": {
+                "name": "TV Gold",
+                "base": "#e9b138"
+            },
+            "tv_silver": {
+                "name": "TV Silver",
+                "base": "#b3b3b3"
+            }
+        }
+    },
+    "vibrant": {
+        "name": "Vibrant Collection",
+        "namespace": "V",
+        "featured_color": "strawberry",
+        "colors": {
+            "strawberry": "#dd3344",
+            "tangelo": "#ee7722",
+            "lemon": "#f6ce3d",
+            "lime": "#33cc33",
+            "turquoise": "#33cccc",
+            "sky_blue": "#66ccff",
+            "sapphire": "#1166dd",
+            "blueberry": "#5500cc",
+            "blackberry": "#9900cc",
+            "grape": "#cc33cc",
+            "lambo": "#ff99cc"
+        }
+    },
+    "moody": {
+        "name": "Moody Collection",
+        "namespace": "M",
+        "featured_color": "obsidian",
+        "colors": {
+            "cinnabar": "#BB2233",
+            "rust": "#b16735",
+            "bronze": "#da8812",
+            "sunflower": "#ff9933",
+            "jalapeno": "#669933",
+            "dusk": "#339999",
+            "ocean": "#336699",
+            "obsidian": "#663399",
+            "eggplant": "#993399",
+            "grapefruit": "#cc3366"
+        }
+    },
+    "generator": {
+        "name": "Swatch Generator",
+        "generator": true,
+        "start_color": "#66cc88"
+    }
+}
