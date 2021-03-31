@@ -22,6 +22,41 @@
             "titanium": "#222222"
         }
     },
+    "vibrant": {
+        "name": "Vibrant Collection",
+        "namespace": "V",
+        "featured_color": "strawberry",
+        "colors": {
+            "strawberry": "#dd3344",
+            "tangelo": "#ee7722",
+            "lemon": "#f6ce3d",
+            "lime": "#55bb55",
+            "turquoise": "#33cccc",
+            "sky_blue": "#66ccff",
+            "sapphire": "#1166dd",
+            "blueberry": "#5500cc",
+            "blackberry": "#9900cc",
+            "grape": "#cc33cc",
+            "lambo": "#ff99cc"
+        }
+    },
+    "moody": {
+        "name": "Moody Collection",
+        "namespace": "M",
+        "featured_color": "obsidian",
+        "colors": {
+            "cinnabar": "#bb2233",
+            "rust": "#b16735",
+            "bronze": "#da8812",
+            "sunflower": "#ff9933",
+            "jalapeno": "#669933",
+            "dusk": "#339999",
+            "ocean": "#336699",
+            "obsidian": "#663399",
+            "eggplant": "#993399",
+            "grapefruit": "#cc3366"
+        }
+    },
     "retired_projects": {
         "name": "Retired Collection",
         "namespace": "RP",
@@ -64,41 +99,6 @@
                 "name": "TV Silver",
                 "base": "#b3b3b3"
             }
-        }
-    },
-    "vibrant": {
-        "name": "Vibrant Collection",
-        "namespace": "V",
-        "featured_color": "strawberry",
-        "colors": {
-            "strawberry": "#dd3344",
-            "tangelo": "#ee7722",
-            "lemon": "#f6ce3d",
-            "lime": "#33cc33",
-            "turquoise": "#33cccc",
-            "sky_blue": "#66ccff",
-            "sapphire": "#1166dd",
-            "blueberry": "#5500cc",
-            "blackberry": "#9900cc",
-            "grape": "#cc33cc",
-            "lambo": "#ff99cc"
-        }
-    },
-    "moody": {
-        "name": "Moody Collection",
-        "namespace": "M",
-        "featured_color": "obsidian",
-        "colors": {
-            "cinnabar": "#BB2233",
-            "rust": "#b16735",
-            "bronze": "#da8812",
-            "sunflower": "#ff9933",
-            "jalapeno": "#669933",
-            "dusk": "#339999",
-            "ocean": "#336699",
-            "obsidian": "#663399",
-            "eggplant": "#993399",
-            "grapefruit": "#cc3366"
         }
     },
     "generator": {

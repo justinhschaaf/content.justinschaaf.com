@@ -1,0 +1,169 @@
+{
+    "splashes": [
+        {
+            "name": "Happy Birthday, Justin!",
+            "prerequisites": {
+                "month": 1,
+                "day": 19
+            }
+        },
+        {
+            "name": "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=0TfodFaBLAI'>Happy Land Line Telephone Day!</a>",
+            "prerequisites": {
+                "month": 3,
+                "day": 10
+            }
+        },
+        {
+            "name": "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=e91M0XLX7Jw'>Plays Chess Poorly</a>",
+            "prerequisites": {
+                "month": 6,
+                "day": 9
+            }
+        },
+        {
+            "name": "Seasoned YouTube Veteran",
+            "prerequisites": {
+                "month": 8,
+                "day": 19
+            }
+        },
+        "<a target='_blank' style='color: #ffff55;' href='http://yt.justinhs.ch'>You should subscribe on YouTube!</a>",
+        "Sponsored by Freedom",
+        "Birds are majestic creatures.",
+        "Why <italic>should</italic> I care?",
+        "You call that clean?",
+        "Sticking to The Plan",
+        "You could stop at 5 or 6 websites, or just 1",
+        "No rest for the weary",
+        "Overthinking Simple Solutions",
+        "Contemplating Context",
+        "<a target='_blank' style='color: #ffff55; text-decoration: none;' href='http://yt.justinhs.ch'>Hiding Hyperlinks</a>",
+        "Humanely Humorous",
+        "Flying with Pheasants",
+        "Forming a Fan Club",
+        "Have a great day!",
+        "Prolonging Past Projects",
+        "<a target='_blank' style='color: #ffffff;' href='https://colors.justinschaaf.com'><span style='color: #d34;'>C</span><span style='color: #e72;'>O</span><span style='color: #f6ce3d;'>L</span><span style='color: #5b5;'>O</span><span style='color: #3cc;'>R</span><span style='color: #16d;'>I</span><span style='color: #90c;'>Z</span><span style='color: #c3c;'>E</span><span style='color: #f9c;'>D</span></a>",
+        "Uniquely Unsorted",
+        "Includes Interesting Splashes",
+        "Safer than School Lunch",
+        "Designed with 𝓢𝓽𝔂𝓵𝓮",
+        "I used to eat apps... Now I make Apps too.",
+        "Noteworthy Night Owl",
+        "More Corect than Autocorrect",
+        "No Proof Necessary",
+        "Selling YOU on ME",
+        "Powered by Doughnuts",
+        "High-Quality Semi-Original Ideas",
+        "Making Websites Great Again",
+        "Explaining History",
+        "Making History",
+        "HoI4 Grand Strategist",
+        "Making fun of the world so you don't have to",
+        "YouTube Media Mogul",
+        "Modern Philosopher",
+        "A Literal ⬢",
+        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=VlbatQ_SYa8'>Cooking Baby Back Ribs</a>",
+        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=iI6ASaCYKuc'>Mutually Assured Destruction</a>",
+        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=-g0H3mlE5LY'>Fixed the Garage Door Opener</a>",
+        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=uQPN1s8eq0E'>Mowing Grass</a>",
+        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=Qzi1G3SxX-w'>Definitely Has Friends</a>",
+        "Shamelessly Self Promoting",
+        "Likes <italic>Smooth</italic> Jazz",
+        "Prefers YAML Configuration",
+        "Hello.",
+        "The World's Best Website"
+    ],
+    "entries": {
+        "projects": {
+            "pinetree": {
+                "name": "Pinetree",
+                "url": "https://pinetree.dev/",
+                "hidden": true
+            },
+            "yamltobot": {
+                "name": "YamlToBot",
+                "url": "https://yamltobot.com",
+                "desc": "YamlToBot is an application that allows you to quickly and easily develop self-hosted chatbots for Discord and Twitch, with support for more platforms coming in the near future. With YamlToBot, all it takes is a few simple steps to deploy your own chat bot."
+            },
+            "stylesheet": {
+                "name": "Stylesheet",
+                "url": "https://colors.justinschaaf.com/",
+                "desc": "This is a place where I've compiled a collection of creative colors in multiple shades. It also includes colors from some of my other current and past projects. It has now grown to include 300 individual colors and has a swatch generator for your color needs."
+            },
+            "llama_steeds": {
+                "name": "Llama Steeds",
+                "url": "https://www.curseforge.com/minecraft/mc-mods/llama-steeds",
+                "desc": "Mount your llama and ride into the sunset."
+            }
+        },
+        "social": {
+            "liberapay": {
+                "name": "Liberapay",
+                "url": "https://liberapay.com/justinhschaaf/",
+                "featured": true,
+                "icon": "assets/socialicons/liberapay.svg",
+                "desc": "Weekly recurring donations with no platform fees"
+            },
+            "donate": {
+                "name": "Direct Donations",
+                "url": "https://streamlabs.com/justinhschaaf",
+                "desc": "One-time money to my wallet"
+            },
+            "github": {
+                "name": "GitHub",
+                "url": "https://github.com/justinhschaaf/",
+                "featured": true,
+                "icon": "assets/socialicons/github.svg",
+                "desc": "Cool Code Collections!"
+            },
+            "twitter": {
+                "name": "Twitter",
+                "url": "https://twitter.com/justinhschaaf",
+                "featured": true,
+                "icon": "assets/socialicons/twitter.svg",
+                "desc": "Jokes & Failed Ratios"
+            },
+            "youtube": {
+                "name": "YouTube",
+                "url": "https://www.youtube.com/channel/UCNw2pX6yLUuq9J0dYmsn6mA",
+                "featured": true,
+                "icon": "assets/socialicons/youtube.svg",
+                "desc": "Unparalled Entertainment"
+            },
+            "twitch": {
+                "name": "Twitch",
+                "url": "https://twitch.tv/justinhschaaf",
+                "hidden": true
+            },
+            "reddit": {
+                "name": "Reddit",
+                "url": "https://reddit.com/u/jhschaaf",
+                "hidden": true
+            },
+            "chess": {
+                "name": "Chess",
+                "url": "https://www.chess.com/member/justinhschaaf",
+                "hidden": true
+            },
+            "mastodon": {
+                "name": "Mastodon",
+                "url": "https://mastodon.online/@justinhschaaf",
+                "desc": "Twitter, but not Twitter"
+            }
+        },
+        "etc": {
+            "source": {
+                "name": "Website Source",
+                "url": "https://github.com/justinhschaaf/justinschaaf.com",
+                "desc": "How It's Made, but for this website"
+            },
+            "contact": {
+                "name": "Contact",
+                "url": "mailto:justin@justinschaaf.com",
+                "desc": "Have something to say to me? Send it here!"
+            }
+        }
+    }
+}
