@@ -8,14 +8,27 @@
             }
         },
         {
-            "name": "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=0TfodFaBLAI'>Happy Land Line Telephone Day!</a>",
+            "name": "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=0TfodFaBLAI'>Happy Land Line Telephone Day!</a>",
             "prerequisites": {
                 "month": 3,
                 "day": 10
             }
         },
         {
-            "name": "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=e91M0XLX7Jw'>Plays Chess Poorly</a>",
+            "name": "Stuck in quarantine...",
+            "prerequisites" : {
+                "month": 3,
+                "day": 16
+            }
+        },
+        {
+            "name": "Online since 2011",
+            "prerequisites": {
+                "month": 5
+            }
+        },
+        {
+            "name": "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=e91M0XLX7Jw'>Plays Chess Poorly</a>",
             "prerequisites": {
                 "month": 6,
                 "day": 9
@@ -28,7 +41,7 @@
                 "day": 19
             }
         },
-        "<a target='_blank' style='color: #ffff55;' href='http://yt.justinhs.ch'>You should subscribe on YouTube!</a>",
+        "<a target='_blank' style='color: #ff5;' href='http://yt.justinhs.ch'>You should subscribe on YouTube!</a>",
         "Sponsored by Freedom",
         "Birds are majestic creatures.",
         "Why <italic>should</italic> I care?",
@@ -38,13 +51,13 @@
         "No rest for the weary",
         "Overthinking Simple Solutions",
         "Contemplating Context",
-        "<a target='_blank' style='color: #ffff55; text-decoration: none;' href='http://yt.justinhs.ch'>Hiding Hyperlinks</a>",
+        "<a target='_blank' style='color: #ff5; text-decoration: none;' href='http://yt.justinhs.ch'>Hiding Hyperlinks</a>",
         "Humanely Humorous",
         "Flying with Pheasants",
         "Forming a Fan Club",
         "Have a great day!",
         "Prolonging Past Projects",
-        "<a target='_blank' style='color: #ffffff;' href='https://colors.justinschaaf.com'><span style='color: #d34;'>C</span><span style='color: #e72;'>O</span><span style='color: #f6ce3d;'>L</span><span style='color: #5b5;'>O</span><span style='color: #3cc;'>R</span><span style='color: #16d;'>I</span><span style='color: #90c;'>Z</span><span style='color: #c3c;'>E</span><span style='color: #f9c;'>D</span></a>",
+        "<a target='_blank' style='color: #fff;' href='https://colors.justinschaaf.com'><span style='color: #d34;'>C</span><span style='color: #e72;'>O</span><span style='color: #f6ce3d;'>L</span><span style='color: #5b5;'>O</span><span style='color: #3cc;'>R</span><span style='color: #16d;'>I</span><span style='color: #90c;'>Z</span><span style='color: #c3c;'>E</span><span style='color: #f9c;'>D</span></a>",
         "Uniquely Unsorted",
         "Includes Interesting Splashes",
         "Safer than School Lunch",
@@ -64,22 +77,30 @@
         "YouTube Media Mogul",
         "Modern Philosopher",
         "A Literal ⬢",
-        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=VlbatQ_SYa8'>Cooking Baby Back Ribs</a>",
-        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=iI6ASaCYKuc'>Mutually Assured Destruction</a>",
-        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=-g0H3mlE5LY'>Fixed the Garage Door Opener</a>",
-        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=uQPN1s8eq0E'>Mowing Grass</a>",
-        "<a target='_blank' style='color: #ffff55;' href='https://www.youtube.com/watch?v=Qzi1G3SxX-w'>Definitely Has Friends</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=VlbatQ_SYa8'>Cooking Baby Back Ribs</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=iI6ASaCYKuc'>Mutually Assured Destruction</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=-g0H3mlE5LY'>Fixed the Garage Door Opener</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=uQPN1s8eq0E'>Mowing Grass</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=Qzi1G3SxX-w'>Definitely Has Friends</a>",
         "Shamelessly Self Promoting",
         "Likes <italic>Smooth</italic> Jazz",
         "Prefers YAML Configuration",
         "Hello.",
-        "The World's Best Website"
+        "The World's Best Website",
+        "Criticizing the 1%",
+        "Sponsored by... Myself...",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=NBIO7ABBiJ0'>Strategizing in 5D</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=BdybKGLIqL0'>Asking Existential Questions</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=ecCe-b-5QHo'>Running on Empty</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=gS7jJG11Wq0'>Dropping Chaos</a>",
+        "<a target='_blank' style='color: #ff5;' href='http://llama.justinhs.ch'>Riding into the sunset</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://liberapay.com/justinhschaaf'>Wants your money</a>"
     ],
     "entries": {
         "projects": {
             "pinetree": {
                 "name": "Pinetree",
-                "url": "https://pinetree.dev/",
+                "url": "https://pinetree.dev",
                 "hidden": true
             },
             "yamltobot": {
@@ -89,7 +110,7 @@
             },
             "stylesheet": {
                 "name": "Stylesheet",
-                "url": "https://colors.justinschaaf.com/",
+                "url": "https://colors.justinschaaf.com",
                 "desc": "This is a place where I've compiled a collection of creative colors in multiple shades. It also includes colors from some of my other current and past projects. It has now grown to include 300 individual colors and has a swatch generator for your color needs."
             },
             "llama_steeds": {
@@ -101,7 +122,7 @@
         "social": {
             "liberapay": {
                 "name": "Liberapay",
-                "url": "https://liberapay.com/justinhschaaf/",
+                "url": "https://liberapay.com/justinhschaaf",
                 "featured": true,
                 "icon": "assets/socialicons/liberapay.svg",
                 "desc": "Weekly recurring donations with no platform fees"
@@ -113,7 +134,7 @@
             },
             "github": {
                 "name": "GitHub",
-                "url": "https://github.com/justinhschaaf/",
+                "url": "https://github.com/justinhschaaf",
                 "featured": true,
                 "icon": "assets/socialicons/github.svg",
                 "desc": "Cool Code Collections!"
@@ -131,6 +152,16 @@
                 "featured": true,
                 "icon": "assets/socialicons/youtube.svg",
                 "desc": "Unparalled Entertainment"
+            },
+            "instagram": {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/justinhschaaf",
+                "desc": "Zuckerberg's \"vacation\" social network"
+            },
+            "tiktok": {
+                "name": "TikTok",
+                "url": "https://www.tiktok.com/@justinhschaaf",
+                "desc": "Short-form media machine"
             },
             "twitch": {
                 "name": "Twitch",
