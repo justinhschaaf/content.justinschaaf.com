@@ -94,7 +94,35 @@
         "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=ecCe-b-5QHo'>Running on Empty</a>",
         "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=gS7jJG11Wq0'>Dropping Chaos</a>",
         "<a target='_blank' style='color: #ff5;' href='http://llama.justinhs.ch'>Riding into the sunset</a>",
-        "<a target='_blank' style='color: #ff5;' href='https://liberapay.com/justinhschaaf'>Wants your money</a>"
+        "<a target='_blank' style='color: #ff5;' href='https://liberapay.com/justinhschaaf'>Wants your money</a>",
+        "Don't let the food melt your mouth before the food melts in your mouth",
+        "Please install drivers."
+        "<a target='_blank' style='color: #ff5;' href='https://getsol.us'>Switching to Linux</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=OSq1l-REybU'>Still nobody</a>",
+        {
+            "name": "Tried to order a burrito at a bank drive-thru...",
+            "prerequisites": {
+                "month": 1,
+                "day": 19
+            }
+        },
+        {
+            "name": "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=4DB1e4M_Q5I'>Not on time</a>",
+            "prerequisites": {
+                "month": 12,
+                "day": 25
+            }
+        },
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=6aAb_movOXk'>Creating Communal Showers</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/shorts/li0lv4Igyto'>Has a Shield</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/watch?v=IJiIz1Xu8_8'>Drives a Land Boat</a>",
+        "<a target='_blank' style='color: #ff5;' href='https://www.youtube.com/shorts/pJSuGmYqX18'>Ardent Catpitalist</a>",
+        "Lived to see the day Sherwin Williams ran out of paint",
+        "Planing the future of the Fax Machine",
+        "1 . . . 2 . . . ? Sorry, I don't know",
+        "\"Because nobody could *ever* possible attempt to parse bad data.\"",
+        "Has Negative Social Credit",
+        "A Wonderful Idiot"
     ],
     "entries": {
         "projects": {
@@ -161,11 +189,13 @@
             "tiktok": {
                 "name": "TikTok",
                 "url": "https://www.tiktok.com/@justinhschaaf",
-                "desc": "Short-form media machine"
+                "desc": "Banned for impersonating myself (probably) after a day",
+                "hidden": true
             },
             "twitch": {
                 "name": "Twitch",
                 "url": "https://twitch.tv/justinhschaaf",
+                "desc": "Conveniently missing from the leaked revenue list",
                 "hidden": true
             },
             "reddit": {
