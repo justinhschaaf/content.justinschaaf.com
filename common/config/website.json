@@ -188,11 +188,6 @@
                 "desc": "The future home of cool collaborative code creations.",
                 "hidden": true
             },
-            "yamltobot": {
-                "name": "YamlToBot",
-                "url": "https://yamltobot.com",
-                "desc": "YamlToBot is an application that allows you to quickly and easily develop self-hosted chatbots for Discord and Twitch, with support for more platforms coming in the near future. With YamlToBot, all it takes is a few simple steps to deploy your own chat bot."
-            },
             "stylesheet": {
                 "name": "Stylesheet",
                 "url": "https://colors.justinschaaf.com",
@@ -200,8 +195,13 @@
             },
             "llama_steeds": {
                 "name": "Llama Steeds",
-                "url": "https://www.curseforge.com/minecraft/mc-mods/llama-steeds",
-                "desc": "Mount your llama and ride into the sunset."
+                "url": "https://modrinth.com/mod/llama-steeds",
+                "desc": "Who said you need a horse to ride into the sunset?"
+            },
+            "infinitifall": {
+                "name": "Infinitifall",
+                "url": "https://modrinth.com/plugin/infinitifall",
+                "desc": "Falling, Forever."
             }
         },
         "social": {
@@ -237,7 +237,7 @@
                 "desc": "Twitter, but not Twitter"
             },
             "modrinth": {
-                "name": "Modrinth:",
+                "name": "Modrinth",
                 "url": "https://modrinth.com/user/justinhschaaf",
                 "desc": "Magnificent Minecraft Mods"
             },
