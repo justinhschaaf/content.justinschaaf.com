@@ -1,0 +1,63 @@
+{
+    "nixos_config": {
+        "disabled": true,
+        "name": "nixos-<br>config",
+        "title": "nixos-config",
+        "tagline": "todo",
+        "desc": "https://content.justinschaaf.com/common/projects/nixos_config.md",
+        "art": {
+            "img": "https://content.justinschaaf.com/common/projects/llamasteeds.webp",
+            "ascii_dark": "https://content.justinschaaf.com/common/projects/llamasteeds_dark.html",
+            "ascii_light": "https://content.justinschaaf.com/common/projects/llamasteeds_light.html",
+            "cover": "https://content.justinschaaf.com/common/projects/llamasteeds.webp"
+        }
+    },
+    "stylesheet": {
+        "name": "Stylesheet",
+        "title": "Stylesheet",
+        "tagline": "Curiously colorized.",
+        "desc": "https://content.justinschaaf.com/common/projects/stylesheet.md",
+        "art": {
+            "img": "https://content.justinschaaf.com/common/projects/stylesheet.webp",
+            "ascii_dark": "https://content.justinschaaf.com/common/projects/stylesheet_dark.html",
+            "ascii_light": "https://content.justinschaaf.com/common/projects/stylesheet_light.html",
+            "cover": "https://content.justinschaaf.com/common/projects/stylesheet_demo.webp"
+        }
+    },
+    "llama_steeds": {
+        "name": "Llama<br>Steeds",
+        "title": "Llama Steeds",
+        "tagline": "Who said you need a horse to ride into the sunset?",
+        "desc": "https://content.justinschaaf.com/common/projects/llamasteeds.md",
+        "art": {
+            "img": "https://content.justinschaaf.com/common/projects/llamasteeds.webp",
+            "ascii_dark": "https://content.justinschaaf.com/common/projects/llamasteeds_dark.html",
+            "ascii_light": "https://content.justinschaaf.com/common/projects/llamasteeds_light.html",
+            "cover": "https://content.justinschaaf.com/common/projects/llamasteeds_demo.webp"
+        }
+    },
+    "infinitifall": {
+        "name": "Infinitifall",
+        "title": "Infinitifall",
+        "tagline": "Falling, forever.",
+        "desc": "https://content.justinschaaf.com/common/projects/infinitifall.md",
+        "art": {
+            "img": "https://content.justinschaaf.com/common/projects/infinitifall.webp",
+            "ascii_dark": "https://content.justinschaaf.com/common/projects/infinitifall_dark.html",
+            "ascii_light": "https://content.justinschaaf.com/common/projects/infinitifall_light.html",
+            "cover": "https://content.justinschaaf.com/common/projects/infinitifall_demo.webp"
+        }
+    },
+    "killer_snow": {
+        "name": "Killer<br>Snow",
+        "title": "Killer Snow",
+        "tagline": "Yet another plugin that makes snowballs do damage",
+        "desc": "https://content.justinschaaf.com/common/projects/killersnow.md",
+        "art": {
+            "img": "https://content.justinschaaf.com/common/projects/killersnow.webp",
+            "ascii_dark": "https://content.justinschaaf.com/common/projects/killersnow_dark.html",
+            "ascii_light": "https://content.justinschaaf.com/common/projects/killersnow_light.html",
+            "cover": "https://content.justinschaaf.com/common/projects/killersnow_demo.webp"
+        }
+    }
+}
