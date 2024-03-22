@@ -94,6 +94,6 @@ It may just be wishful thinking, but I'm feeling really good about the website a
 
 Here's to hoping I won't let this place rot again.
 
-[^1] Sapper was the original routing library for building websites using Svelte components, as Svelte itself is less of a comprehensive website toolkit and more a framework for building the individual components to make up a website.
+[^1]: Sapper was the original routing library for building websites using Svelte components, as Svelte itself is less of a comprehensive website toolkit and more a framework for building the individual components to make up a website.
 
-[^2] Cumulative Layout Shift is how much visitors see the website content move while the page is loading. It makes it harder to interact with the content on the page and do what you're actually trying to, and as such, it's generally a bad thing.
+[^2]: Cumulative Layout Shift is how much visitors see the website content move while the page is loading. It makes it harder to interact with the content on the page and do what you're actually trying to, and as such, it's generally a bad thing.
