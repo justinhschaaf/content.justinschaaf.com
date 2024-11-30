@@ -86,10 +86,5 @@
         "name": "Twitch",
         "url": "https://twitch.tv/justinhschaaf",
         "disabled": true
-    },
-    "twitter": {
-        "name": "Twitter",
-        "url": "https://twitter.com/justinhschaaf",
-        "disabled": true
     }
 }
