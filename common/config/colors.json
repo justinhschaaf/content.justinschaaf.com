@@ -6,20 +6,8 @@
         "colors": {
             "dark": "#111111",
             "light": "#ffffff",
-            "lucky_grey": "#777777"
-        }
-    },
-    "pinetree": {
-        "name": "Pinetree Collection",
-        "namespace": "PT",
-        "featured_color": "evergreen",
-        "colors": {
-            "evergreen": "#009245",
-            "fjord": "#80aabd",
-            "rose": "#d00000",
-            "mesa": "#f69920",
-            "irridium": "#e6e6e6",
-            "titanium": "#222222"
+            "lucky_grey": "#777777",
+            "fjord": "#80aabd"
         }
     },
     "vibrant": {
@@ -63,6 +51,8 @@
         "featured_color": "moonlight",
         "colors": {
             "moonlight": "#283f50",
+            "evergreen": "#009245",
+            "mesa": "#f69920",
             "tv_grass_green": {
                 "name": "TV Grass Green",
                 "base": "#52cc55"
@@ -104,6 +94,6 @@
     "generator": {
         "name": "Swatch Generator",
         "generator": true,
-        "start_color": "#66cc88"
+        "start_color": "#a2cc66"
     }
 }
